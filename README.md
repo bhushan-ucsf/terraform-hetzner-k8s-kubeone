@@ -1,4 +1,4 @@
-# Mastodon Terraform - Hetzner KubeOne Cluster
+# MasMammoth (remaned from Mastadon) todon Terraform - Hetzner KubeOne Cluster
 
 Terraform module for creating a Kubernetes cluster in Hetzner using KubeOne.
 
